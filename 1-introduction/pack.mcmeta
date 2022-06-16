@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 10,
+        "description": "Spawns a bunch of animals around the player"
+    }
+}
