@@ -5,3 +5,6 @@ scoreboard objectives add fennifith.animals_spawned dummy
 
 # create a new scoreboard tracking the "carrot_on_a_stick" statistic
 scoreboard objectives add fennifith.animals_carrot_stick minecraft.used:minecraft.carrot_on_a_stick
+
+# create a dummy objective to store unique pig entity ids
+scoreboard objectives add fennifith.animals_id dummy
